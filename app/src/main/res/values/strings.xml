@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PocDialMyApp</string>
+    <string name="app_title_everis">Assistente everis</string>
+    <string name="app_title_tim">Assistente TIM</string>
+    <string name="check_invoice">Consultar Fatura</string>
+    <string name="chatbot">Assistente Virtual</string>
+    <string name="faqs">Perguntas Frequentes</string>
+    <string name="call">Falar com um atendente</string>
+    <string name="title">Selecione uma opção:</string>
+    <string name="lorem">Lorem ipsum etiam tortor volutpat ipsum justo inceptos, vehicula amet ac dapibus tellus congue, at class justo integer ornare cubilia. </string>
+    <string name="perguntas_frequentes">Perguntas frequentes:</string>
+    <string name="about">About us</string>
+    <string name="about_everis">Sobre a everis</string>
+    <string name="about_everis_text">Somos uma equipe de atuação mundial, de pessoas apaixonadas pelo que fazem e por aquilo em que acreditam, lideradas por valores e onde qualquer sonho pode se tornar realidade. Nossa razão de ser são as pessoas, acreditamos firmemente em seu desenvolvimento integral e elas são o nosso ativo mais valioso. Pois, sem elas nada seria possível.</string>
+    <string name="technology">Technology</string>
+    <string name="technology_text">Selecionamos, implementamos e otimizamos as melhores tecnologias e soluções empresariais para acelerar o processo da transformação digital. Acreditamos no desenvolvimento de um conhecimento tecnológico robusto, agregando valor à criação de projetos diferenciados e apoiando nosso trabalho por meio dos melhores métodos e ferramentas.</string>
+    <string name="beliefs_text">As pessoas e seu desenvolvimento integral têm de ser o propósito da companhia e não meros recursos a empregar. O alto rendimento profissional é potencializado ao criar um contexto de liberdade responsável.</string>
+    <string name="beliefs">Beliefs</string>
+    <string name="disrupting_text">Trabalhamos a disrupção do mundo dos negócios baseados em tecnologias exponenciais e iniciativas inovadoras. Valorizamos os nossos serviços por meio da inteligência artificial, estimulamos a educação tecnológica dos nossos profissionais por meio de tecnologias criativas e somos o ponto de contato entre o ecossistema global de startups e as grandes empresas.</string>
+    <string name="disrupting">Disrupting</string>
+    <string name="about_tim">Sobre a TIM</string>
+    <string name="about_tim_text">A TIM busca sempre evoluir junto com seus clientes individuais e corporativos. Por isso, trabalha constantemente na melhoria da sua rede para oferecer serviços de telefonia móvel, fixa e internet de última geração. Atualmente, possui a mais ampla cobertura 4G do Brasil e planos de internet fixa 10 vezes mais rápidos que a média da banda larga brasileira com o Live TIM. Ainda garantimos transparência total com o projeto Portas Abertas.</string>
+    <string name="security_tim">Segurança</string>
+    <string name="security_tim_text">A TIM empenhou-se em tomar medidas comercialmente justificadas para impedir o acesso desautorizado e o uso indevido de suas informações pessoais. Se o presente Site aceitar transações on-line, são utilizadas as medidas de segurança disponíveis através da Camada de Soquetes Segura -- "Secure Sockets Layer" ("SSL") para proteger o sigilo e segurança das transações on-line. Uma autenticação SSL com criptografia de até 128 bits é utilizada para garantir que as informações pessoais apresentadas como parte do processo autenticação, estão razoavelmente protegidas contra a intercepção de terceiros.</string>
+    <string name="protection_tim">Proteção</string>
+    <string name="protection_tim_text">A versão mais recente do aplicativo oferece um recurso complementar que aumenta a segurança da sua conta pessoal por meio da opção "Verificação de duas etapas". O usuário pode cadastrar uma senha adicional que será exigida toda vez que o app for reinstalado no mesmo ou em outros smartphones. Essa senha não é enviada por mensagem de SMS e não é possível habilitar uma nova conta apenas informando o código de segurança padrão.</string>
+    <string name="tim_politicass">Políticas da TIM</string>
+    <string name="tim_politicass_text">Além destes princípios, temos um conjunto de políticas e documentos normativos que orientam nossas práticas e ações em diferentes temas, como o Código de Ética e de Conduta. Entendemos que uma gestão responsável passa pelo compromisso assumido com nossos stakeholders por meio do cumprimento dessas normas. Algumas das políticas da TIM também podem ser acessadas no site de relações com investidores.</string>
+</resources>
